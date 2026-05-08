@@ -10,8 +10,7 @@
 
 ## 💰 Fund Tracking Dashboard
 
-![Fund Tracking Dashboard](https://github.com/user-attachments/assets/a6719d75-697f-4755-8e21-94b018a8e22e>
-)
+![Fund Tracking Dashboard](https://github.com/user-attachments/assets/a6719d75-697f-4755-8e21-94b018a8e22e)
 
 ---
 
