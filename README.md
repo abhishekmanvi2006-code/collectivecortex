@@ -1,3 +1,39 @@
+# 📸 Application Preview
+
+---
+
+## 🏠 Landing Page
+
+![Landing Page](https://github.com/user-attachments/assets/0e27603b-938c-4a22-b635-6e4f8eca458c)
+
+---
+
+## 💰 Fund Tracking Dashboard
+
+![Fund Tracking Dashboard](https://github.com/user-attachments/assets/a6719d75-697f-4755-8e21-94b018a8e22e>
+)
+
+---
+
+## 🤖 AI ChatBox
+
+![AI ChatBox](https://github.com/user-attachments/assets/ee37a1a9-123c-4bc4-95b2-6a7a2cb049d8)
+
+---
+
+## 📍 Geo-Tagged Progress Verification
+
+![Geo Verification](https://github.com/user-attachments/assets/5b996676-931d-4e38-89c7-bd47174e539d)
+
+
+---
+
+## 👤 User Profile & Settings
+
+![Profile Settings](https://github.com/user-attachments/assets/e45e5688-65d1-4f50-a2cd-9859f227e9c9)
+
+---
+
 # 🌐 Collective Cortex
 ## AI-Powered Government Scheme Assistance & Transparent Fund Monitoring Platform
 
